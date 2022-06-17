@@ -1,0 +1,13 @@
+contract5564RT5 Valid document
+share459320FJ5J Invalid document: Строка не начинается с docnum или contract
+docnum678VGE456 Valid document
+docnum875DVY231 Valid document
+docnum678V3E456 Valid document
+shareT5JD820FF9 Invalid document: Строка не начинается с docnum или contract
+contract55JJS90 Valid document
+contract4KC86KD Valid document
+contract309FHC4 Valid document
+docnum000HJF452 Valid document
+columnT53FN6KD3 Invalid document: Строка не начинается с docnum или contract
+docnum890KPY543 Valid document
+docnum875DVY231ds Invalid document: Строка не имеет длину 15
